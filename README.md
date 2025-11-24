@@ -23,6 +23,18 @@ The dashboard is structured around four critical areas of compensation managemen
 
 ---
 
+## 💡 Key Analytical Insights
+
+By interacting with this dashboard, users can immediately surface critical findings related to compensation health and fairness:
+
+* **Gender Pay Gap:** Quantify the exact percentage difference between average Male and Female salaries, highlighting the specific departments that contribute most to this gap (Page 2).
+* **Performance Reward Validation:** Confirm that the average **Salary and Bonus payout for 'Excellent' performers** is statistically higher than 'Average' or 'Poor' performers, validating the efficacy of the pay-for-performance policy (Page 3).
+* **Compensation Structure Audit:** Identify the precise **Minimum and Maximum salary bands** for every `Designation` (e.g., Intern, Analyst, Manager) across the organization, ensuring internal pay equity is maintained (Page 4).
+* **Experience vs. Pay:** Detect potential retention risks by identifying experienced employees (e.g., 10+ years) whose compensation falls significantly below the organizational trend line shown on the **Salary vs. Experience Scatter Plot** (Page 1).
+* **Variable Pay Dependence:** Determine which departments (e.g., Sales vs. IT) rely more heavily on **Variable Pay (Bonus)** versus **Fixed Pay (Salary)**, informing budget forecasts and sales incentive design (Page 4).
+
+---
+
 ## 📂 Dashboard Structure & Navigation
 
 The Power BI file is logically segmented into four distinct reporting pages:
@@ -79,4 +91,3 @@ The analysis is based on the following key fields from the source data:
 * `Experience (Years)` (Numerical)
 
 ---
-*Created by [Your Name/Team Name] | Date: [Date of Completion]*
