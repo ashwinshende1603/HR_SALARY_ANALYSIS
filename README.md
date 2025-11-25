@@ -63,6 +63,8 @@ Provides managers with granular, interactive views of pay progression and salary
 
 ## 🛠️ Setup & Usage Instructions
 
+![images](https://github.com/user-attachments/assets/a7dca8e7-a9b9-462c-a830-ea3f367be37d)
+
 This project is delivered as a **Power BI Template (`.pbit`)** for easy setup and scalability.
 
 ### Prerequisites
