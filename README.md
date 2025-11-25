@@ -101,3 +101,25 @@ The analysis is based on the following key fields from the source data:
 * `Experience (Years)` (Numerical)
 
 ---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repository and submit a pull request.
+
+---
+
+## ⭐ Show Your Support
+
+If you found this project helpful, please give it a star ⭐ to support continuous improvements.
+
+---
+
+## 📩 Contact
+
+For professional dashboard development or collaboration:
+
+Email: ashwinshende1603@gmail.com
+
+GitHub: https://github.com/ashwinshende1603
+
