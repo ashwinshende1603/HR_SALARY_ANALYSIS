@@ -42,12 +42,12 @@ The Power BI file is logically segmented into four distinct reporting pages:
 ### 1. Compensation & Budget Overview 💰
 Focuses on the macro view: total cost, average pay, and how spending is allocated by department and location.
 
-<img width="800" height="500" alt="DASHBOARD 1" src="https://github.com/user-attachments/assets/bc3576ee-c3d9-4b34-a063-6ca9394cac27" />
+<img width="800" height="500" alt="DASHBOARD 1" src="https://github.com/user-attachments/assets/325f4291-6e9a-478a-820e-c01ac6aee4f5" />
 
 ### 2. Pay Equity & Fairness Analysis ⚖️
 Dedicated to checking for structural pay biases based on protected characteristics like **Gender** and educational attainment.
 
-<img width="800" height="500" alt="DASHBOARD 2" src="https://github.com/user-attachments/assets/e2ea4457-edbc-408e-96eb-94803a6bb1bf" />
+<img width="800" height="500" alt="DASHBOARD 2" src="https://github.com/user-attachments/assets/427ea7d8-3cfa-4331-9cc5-ee651edd998f" />
 
 ### 3. Performance & Retention Audit 📈
 Examines the link between **Performance Rating**, compensation, and employee experience to ensure high performers are incentivized and retained.
